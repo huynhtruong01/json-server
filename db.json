@@ -1,0 +1,527 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Hoàng Huệ Hương",
+      "createAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "date": "30-07-1993",
+      "address": "Nghệ An",
+      "email": "HuHng.Hong@gmail.com",
+      "date_work": "15-05-2018",
+      "phone_number": "021533393762"
+    },
+    {
+      "name": "Đỗ Hữu Nghĩa",
+      "date": "26-06-1994",
+      "address": "Bình Dương",
+      "email": "HuNgha77@gmail.com",
+      "date_work": "17-05-2017",
+      "phone_number": "02553196668",
+      "createdAt": 1636625610584,
+      "updatedAt": 1636625610584,
+      "id": 2
+    },
+    {
+      "name": "Nguyễn Quỳnh Hà",
+      "date": "26-05-1991",
+      "address": "Quảng Ninh",
+      "email": "QunhH96@gmail.com",
+      "date_work": "11-03-2018",
+      "phone_number": "02716047126",
+      "createdAt": 1636625783131,
+      "updatedAt": 1636625783131,
+      "id": 3
+    },
+    {
+      "name": "Bùi Phương Mai",
+      "date": "08-06-1995",
+      "address": "Tây Ninh",
+      "email": "PhngMai_Bi@gmail.com",
+      "date_work": "07-03-2018",
+      "phone_number": "02089861652",
+      "createdAt": 1636625879993,
+      "updatedAt": 1636625879993,
+      "id": 4
+    },
+    {
+      "name": "Trần Huy Lĩnh",
+      "date": "11-03-1995",
+      "address": "Đồng Nai",
+      "email": "HuyLnh.Trn9@gmail.com",
+      "date_work": "07-03-2018",
+      "phone_number": "023282762080",
+      "createdAt": 1636626126152,
+      "updatedAt": 1636626126152,
+      "id": 5
+    },
+    {
+      "name": "Lý Thảo Hương",
+      "date": "25-02-1995",
+      "address": "Lâm Đồng",
+      "email": "ThoHng24@gmail.com",
+      "date_work": "11-05-2019",
+      "phone_number": "02005983561",
+      "createdAt": 1636626223747,
+      "updatedAt": 1636626223747,
+      "id": 6
+    }
+  ],
+  "customer": [
+    {
+      "name": "Nguyễn Thanh Tâm",
+      "date": "21-07-1995",
+      "address": "Bình Thuận",
+      "email": "TmThanh87@gmail.com",
+      "date_work": "11-05-2019",
+      "phone_number": "02876995192",
+      "createdAt": 1636627617855,
+      "updatedAt": 1636627617855,
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Văn Khánh",
+      "date": "01-10-1995",
+      "address": "Gia Lai",
+      "phone_number": "02035945096",
+      "createdAt": 1636627680874,
+      "updatedAt": 1636627680874,
+      "id": 2
+    },
+    {
+      "name": "Ngô Duy Minh",
+      "date": "19-08-1995",
+      "address": "Tiền Giang",
+      "phone_number": "02035945096",
+      "createdAt": 1636627841348,
+      "updatedAt": 1636627841348,
+      "id": 3
+    },
+    {
+      "name": "Vũ Lạc Phúc",
+      "date": "05-08-1996",
+      "address": "Quảng Trị",
+      "email": "LcPhc_V72@gmail.com",
+      "createdAt": 1636627931083,
+      "updatedAt": 1636627931083,
+      "id": 4
+    },
+    {
+      "name": "Đinh Phúc Sinh",
+      "date": "03-04-1996",
+      "address": "Lâm Đồng",
+      "phone_number": "02035945096",
+      "createdAt": 1636628011339,
+      "updatedAt": 1636628011339,
+      "id": 5
+    },
+    {
+      "name": "Vũ Thành An",
+      "date": "26-11-1996",
+      "address": "Quảng Bình",
+      "phone_number": "02035945096",
+      "createdAt": 1636628105936,
+      "updatedAt": 1636628105936,
+      "id": 6
+    },
+    {
+      "name": "Hoàng Tuyết Trinh",
+      "date": "24-04-1996",
+      "address": "Vĩnh Long",
+      "phone_number": "02035945096",
+      "createdAt": 1636628182367,
+      "updatedAt": 1636628182367,
+      "id": 7
+    },
+    {
+      "name": "Đinh Phương Thùy",
+      "date": "27-02-1997",
+      "address": "Thành phố Hồ Chí Minh",
+      "phone_number": "02035945096",
+      "createdAt": 1636628326749,
+      "updatedAt": 1636628326749,
+      "id": 8
+    },
+    {
+      "name": "Đỗ Bích Hằng",
+      "date": "14-12-1998",
+      "address": "Khánh Hòa",
+      "phone_number": "022978015680",
+      "createdAt": 1636701691133,
+      "updatedAt": 1636701691133,
+      "id": 9
+    },
+    {
+      "name": "Tô Hữu Hiệp",
+      "date": "20-04-1997",
+      "address": "Bình Định",
+      "phone_number": "02000058750",
+      "createdAt": 1636701752975,
+      "updatedAt": 1636701752975,
+      "id": 10
+    },
+    {
+      "name": "Trần Thủy Tiên",
+      "date": "20-04-1999",
+      "address": "Lâm Đồng",
+      "phone_number": "02968251086",
+      "createdAt": 1636701877732,
+      "updatedAt": 1636701877732,
+      "id": 11
+    },
+    {
+      "name": "Lâm Hà Phúc",
+      "date": "31-10-1999",
+      "address": "Nghệ An",
+      "phone_number": "026751473060",
+      "createdAt": 1636703007001,
+      "updatedAt": 1636703007001,
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy Note 20 Ultra 5G",
+      "price": 22000000,
+      "createdAt": 1636703330620,
+      "updatedAt": 1636703330620,
+      "id": 1,
+      "quantity": 67
+    },
+    {
+      "name": "iPhone 13 Chính hãng VN/A",
+      "price": 24990000,
+      "createdAt": 1636703457542,
+      "updatedAt": 1636703457542,
+      "id": 2,
+      "quantity": 46
+    },
+    {
+      "name": "iPhone 13 Pro Max Chính hãng VN/A",
+      "price": 33990000,
+      "createdAt": 1636703497164,
+      "updatedAt": 1636703497164,
+      "id": 3,
+      "quantity": 58
+    },
+    {
+      "name": "iPhone 11 Chính hãng VN/A",
+      "price": 16900000,
+      "createdAt": 1636703576718,
+      "updatedAt": 1636703576718,
+      "id": 4,
+      "quantity": 64
+    },
+    {
+      "name": "Samsung Galaxy Z Flip3 5G",
+      "price": 23990000,
+      "createdAt": 1636703612690,
+      "updatedAt": 1636703612690,
+      "id": 5,
+      "quantity": 41
+    },
+    {
+      "name": "Xiaomi Redmi Note 10 5G",
+      "price": 4950000,
+      "createdAt": 1636703642646,
+      "updatedAt": 1636703642646,
+      "id": 6,
+      "quantity": 45
+    },
+    {
+      "name": "ASUS ROG Phone 5 chính hãng",
+      "price": 18990000,
+      "createdAt": 1636703681189,
+      "updatedAt": 1636703681189,
+      "id": 7,
+      "quantity": 56
+    },
+    {
+      "name": "Xiaomi Redmi 9T 4GB 64GB",
+      "price": 3990000,
+      "createdAt": 1636703732311,
+      "updatedAt": 1636703732311,
+      "id": 8,
+      "quantity": 40
+    },
+    {
+      "name": "OPPO Reno6 5G",
+      "price": 12490000,
+      "createdAt": 1636703767516,
+      "updatedAt": 1636703767516,
+      "id": 9,
+      "quantity": 42
+    },
+    {
+      "name": "Vivo X70 Pro 5G",
+      "price": 19990000,
+      "createdAt": 1636703851387,
+      "updatedAt": 1636703851387,
+      "id": 10,
+      "quantity": 60
+    },
+    {
+      "name": "iPhone XR 64GB Chính hãng VN/A",
+      "price": 12900000,
+      "createdAt": 1636703888199,
+      "updatedAt": 1636703888199,
+      "id": 11,
+      "quantity": 70
+    },
+    {
+      "name": "iPhone 13 mini | Chính hãng VN/A",
+      "price": 20900000,
+      "createdAt": 1636703921083,
+      "updatedAt": 1636703921083,
+      "id": 12,
+      "quantity": 52
+    },
+    {
+      "name": "Xiaomi Mi 10T Pro 5G 8GB 128GB",
+      "price": 10200000,
+      "createdAt": 1636703978841,
+      "updatedAt": 1636703978841,
+      "id": 13,
+      "quantity": 72
+    },
+    {
+      "name": "Vivo X60 Pro 5G",
+      "price": 14992000,
+      "createdAt": 1636704083633,
+      "updatedAt": 1636704083633,
+      "id": 14,
+      "quantity": 50
+    },
+    {
+      "name": "Realme 7",
+      "price": 5590000,
+      "createdAt": 1636704147764,
+      "updatedAt": 1636704147764,
+      "id": 15,
+      "quantity": 58
+    },
+    {
+      "name": "Vsmart Aris Pro",
+      "price": 5490000,
+      "createdAt": 1636704176700,
+      "updatedAt": 1636704176700,
+      "id": 16,
+      "quantity": 57
+    },
+    {
+      "name": "iPhone 12 256GB Chính hãng VN/A",
+      "price": 23500000,
+      "createdAt": 1636704312254,
+      "updatedAt": 1636704312254,
+      "id": 17,
+      "quantity": 78
+    },
+    {
+      "name": "Samsung Galaxy A11",
+      "price": 2650000,
+      "createdAt": 1636704343976,
+      "updatedAt": 1636704343976,
+      "id": 18,
+      "quantity": 57
+    },
+    {
+      "name": "Oppo A54",
+      "price": 4350000,
+      "createdAt": 1636704387922,
+      "updatedAt": 1636704387922,
+      "id": 19,
+      "quantity": 63
+    },
+    {
+      "name": "iPhone 13 Pro Max 1TB Chính hãng VN/A",
+      "price": 46500000,
+      "createdAt": 1636704455920,
+      "updatedAt": 1636704455920,
+      "id": 20,
+      "quantity": 50
+    },
+    {
+      "name": "Nokia 5.4",
+      "price": 3990000,
+      "createdAt": 1636704508346,
+      "updatedAt": 1636704508346,
+      "id": 21,
+      "quantity": 46
+    }
+  ],
+  "manufacturer": [
+    {
+      "name": "Apple",
+      "createdAt": 1636704736810,
+      "updatedAt": 1636704736810,
+      "id": 1
+    },
+    {
+      "name": "Realme",
+      "createdAt": 1636704746347,
+      "updatedAt": 1636704746347,
+      "id": 2
+    },
+    {
+      "name": "Nokia",
+      "createdAt": 1636704751917,
+      "updatedAt": 1636704751917,
+      "id": 3
+    },
+    {
+      "name": "Samsung",
+      "createdAt": 1636704759307,
+      "updatedAt": 1636704759307,
+      "id": 4
+    },
+    {
+      "name": "Vsmart",
+      "createdAt": 1636704779636,
+      "updatedAt": 1636704779636,
+      "id": 5
+    },
+    {
+      "name": "Oppo",
+      "createdAt": 1636704790502,
+      "updatedAt": 1636704790502,
+      "id": 6
+    },
+    {
+      "name": "Vivo",
+      "createdAt": 1636704803868,
+      "updatedAt": 1636704803868,
+      "id": 7
+    },
+    {
+      "name": "ASUS",
+      "createdAt": 1636704815308,
+      "updatedAt": 1636704815308,
+      "id": 8
+    },
+    {
+      "name": "Xiaomi",
+      "createdAt": 1636704825860,
+      "updatedAt": 1636704825860,
+      "id": 9
+    }
+  ],
+  "colors": [
+    {
+      "name": "Bạc",
+      "createdAt": 1636705860370,
+      "updatedAt": 1636705860370,
+      "id": 1
+    },
+    {
+      "name": "Đỏ",
+      "createdAt": 1636705865336,
+      "updatedAt": 1636705865336,
+      "id": 2
+    },
+    {
+      "name": "Vàng",
+      "createdAt": 1636705872035,
+      "updatedAt": 1636705872035,
+      "id": 3
+    },
+    {
+      "name": "Xanh dương",
+      "createdAt": 1636705882398,
+      "updatedAt": 1636705882398,
+      "id": 4
+    },
+    {
+      "name": "Xám",
+      "createdAt": 1636705894624,
+      "updatedAt": 1636705894624,
+      "id": 5
+    },
+    {
+      "name": "Tím",
+      "createdAt": 1636705946499,
+      "updatedAt": 1636705946499,
+      "id": 6
+    },
+    {
+      "name": "Đen",
+      "createdAt": 1636705950239,
+      "updatedAt": 1636705950239,
+      "id": 7
+    },
+    {
+      "name": "Vàng đồng",
+      "createdAt": 1636705985668,
+      "updatedAt": 1636705985668,
+      "id": 8
+    },
+    {
+      "name": "Trắng",
+      "createdAt": 1636706003910,
+      "updatedAt": 1636706003910,
+      "id": 9
+    },
+    {
+      "name": "Xanh bạc hà",
+      "createdAt": 1636706080507,
+      "updatedAt": 1636706080507,
+      "id": 10
+    }
+  ],
+  "supplier": [
+    {
+      "name": "Thế giới di động",
+      "address": "Thành phố Hồ Chí Minh",
+      "email": "thegioididong@gmail.com",
+      "quantity": 187,
+      "totalPrice": 197364000,
+      "createdAt": 1636706913377,
+      "updatedAt": 1636706913377,
+      "id": 1,
+      "phone_number": "0937564875"
+    },
+    {
+      "name": "FPT",
+      "address": "Thành phố Hồ Chí Minh",
+      "email": "fpt@gmail.com",
+      "quantity": 156,
+      "totalPrice": 173456000,
+      "createdAt": 1636706957606,
+      "updatedAt": 1636706957606,
+      "id": 2,
+      "phone_number": "03875421"
+    },
+    {
+      "name": "Nguyễn Kim",
+      "address": "Hà Nội",
+      "email": "nguyenkim@gmail.com",
+      "quantity": 147,
+      "totalPrice": 125847000,
+      "createdAt": 1636707043611,
+      "updatedAt": 1636707043611,
+      "id": 3,
+      "phone_number": "0907548762"
+    },
+    {
+      "name": "Future World",
+      "address": "Thành phố Hồ Chí Minh",
+      "email": "futureworld@gmail.com",
+      "quantity": 197,
+      "totalPrice": 234210000,
+      "createdAt": 1636707117610,
+      "updatedAt": 1636707117610,
+      "id": 4,
+      "phone_number": "03658961"
+    },
+    {
+      "name": "Digiworld",
+      "address": "Thành phố Hồ Chí Minh",
+      "email": "digiworld@gmail.com",
+      "quantity": 110,
+      "totalPrice": 154956000,
+      "createdAt": 1636707173388,
+      "updatedAt": 1636707173388,
+      "id": 5,
+      "phone_number": "0937548967"
+    }
+  ]
+}
